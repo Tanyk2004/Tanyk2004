@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full stack projects. Throughout my past projects I have used a variety of tech stacks and gotten familiar with techonoliges like React, Next-JS, Flask, Python, NodeJS, and SQL. 
 - 📫 How to reach me: my emai is tanay.garg@utexas.edu or IG: @tanay_has_a_username
 - I am also interested in ed-tech and education in general. I am currently employed as a teching assistant at the University of Texas at Austin, a top 10 CS program in the US.
-- Check my Youtube Channel (here)[https://www.youtube.com/SpotlightInSpace]
+- Check my Youtube Channel [here](https://www.youtube.com/SpotlightInSpace)
 
 <!---
 Tanyk2004/Tanyk2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
